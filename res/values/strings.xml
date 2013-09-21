@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Location</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="latitude">latitude</string>
+    <string name="longitude">longitude</string>
+    <string name="enable_gps">Enable GPS?</string>
+    <string name="alert_message">Do you want turn GPS on ?</string>
+	<string name="yes">Yes</string>
+	<string name="no">No</string>
+	<string name="cannot_get_address_">"Cannot get address! "</string>
+	<string name="no_addresses_retrieved">No addresses retrieved</string>
+	<string name="exit_">Exit ?</string>
+	<string name="exit_message">Do you want to close the application ?</string>
+	
+</resources>
